@@ -1,3 +1,5 @@
+# Hi there! ִֶָ𓂃 ࣪˖ ִֶָ🐇་༘࿐
+
 I'm arooj, a Computer Science student specializing in Artificial Intelligence. My work sits at the intersection of AI, trustworthy and privacy-preserving machine learning, cybersecurity, and emerging computing systems.
 
 ---
