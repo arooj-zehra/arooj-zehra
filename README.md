@@ -34,17 +34,18 @@ I'm arooj, a Computer Science student specializing in Artificial Intelligence. M
 ---
 
 <p align="center">
-  <a href="https://open.spotify.com/track/7hwDYSEPIrr5GO9Loxuk7E">
+  <a href="https://open.spotify.com/track/2llmSAUZzE3lusEW8IjKKm">
     <img
-      src="https://image-cdn-fa.spotifycdn.com/image/ab67616d00001e023844287462734b5e216cbee4"
+      src="https://image-cdn-ak.spotifycdn.com/image/ab67616d00001e0286f8b7c502d591bd6d25aae4"
       width="220"
-      alt="Ghosts — Yung Lean & Bladee"
+      alt="marine x — Levi Ryan, Blksmiith"
     >
   </a>
 </p>
 
 <p align="center">
-  <a href="https://open.spotify.com/track/7hwDYSEPIrr5GO9Loxuk7E">
-    Ghosts — Yung Lean & Bladee
+  <b>Currently listening:</b><br>
+  <a href="https://open.spotify.com/track/2llmSAUZzE3lusEW8IjKKm">
+    marine x — Levi Ryan, Blksmiith
   </a>
 </p>
