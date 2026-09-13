@@ -43,7 +43,6 @@ I'm arooj, a Computer Science student specializing in Artificial Intelligence. M
 </p>
 
 <p align="center">
-  <b>Currently listening:</b><br>
   <a href="https://open.spotify.com/track/7hwDYSEPIrr5GO9Loxuk7E">
     Ghosts — Yung Lean & Bladee
   </a>
