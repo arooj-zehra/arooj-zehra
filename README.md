@@ -28,7 +28,7 @@ I'm arooj, a Computer Science student specializing in Artificial Intelligence. M
 ### Fun Facts:
 
 * I enjoy video games, music, and architecture
-* I also like to write and graphic design
+* I also write and design 
 
 ---
 
