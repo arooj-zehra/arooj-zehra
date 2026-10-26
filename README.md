@@ -8,7 +8,6 @@ I'm arooj, a Computer Science student specializing in Artificial Intelligence. M
 
 * AI/ML and trustworthy AI
 * Privacy-preserving ML and cybersecurity
-* Post-quantum cryptography and emerging computing
 * Research-driven projects and experimental systems
 
 ---
