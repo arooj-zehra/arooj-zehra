@@ -14,13 +14,15 @@ I'm arooj, a Computer Science student specializing in Artificial Intelligence. M
 
 ### Some stuff I built:
 
+* **[Explainable Fire & Deforestation Detection](https://github.com/arooj-zehra/xai-fire-deforestation)** — A lightweight MobileNetV3 pipeline that classifies satellite tiles as Normal, Wildfire, or Deforestation (95.0% accuracy, 0.883 macro-F1), with Grad-CAM and SHAP explanations and a Streamlit early-warning dashboard.
+
 * **[RAG Urdu Faithfulness](https://github.com/arooj-zehra/RAG-Urdu-Faithfulness)** — Investigating faithfulness in low-resource Urdu RAG systems, focusing on model behavior under retrieval failure and self-abstention.
 
+* **[Topo-Q-Sched](https://github.com/arooj-zehra/topo-q-sched)** — Topology-structured quantum-classical GPU scheduling: a QGNN predicts NVLink interference and QAOA solves the scheduling decision.
+
+* **[Syscall Kalman Benchmark](https://github.com/arooj-zehra/syscall-kalman-benchmark)** — Cross-platform OS benchmarking of 15 system calls on Linux and Windows, used to build a multi-process Kalman filter in C with shared memory and file I/O.
+
 * **[HE-Compatible Vision](https://github.com/arooj-zehra/HE-Compatibility-Vision)** — Evaluating the accuracy–privacy trade-off of CNNs under homomorphic encryption, with targeted augmentation to reduce encrypted inference accuracy loss.
-
-* **[ICTA – Integrated Cyber Threat Analyzer](https://github.com/arooj-zehra/ICTA-Integrated-Cyber-Threat-Analyzer)** — Cyber threat intelligence dashboard combining IOC analysis with network graph visualization.
-
-* **[Secure Notes](https://github.com/arooj-zehra/secure-notes)** — Full-stack encrypted note-taking application built with React, Node.js, and MongoDB.
 
 ---
 
